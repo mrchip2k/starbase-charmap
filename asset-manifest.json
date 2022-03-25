@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.493140c1.chunk.css",
-    "main.js": "/static/js/main.8552c65c.chunk.js",
-    "main.js.map": "/static/js/main.8552c65c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.803cee65.js",
-    "runtime-main.js.map": "/static/js/runtime-main.803cee65.js.map",
-    "static/js/2.601dc16c.chunk.js": "/static/js/2.601dc16c.chunk.js",
-    "static/js/2.601dc16c.chunk.js.map": "/static/js/2.601dc16c.chunk.js.map",
-    "static/js/3.12b2530c.chunk.js": "/static/js/3.12b2530c.chunk.js",
-    "static/js/3.12b2530c.chunk.js.map": "/static/js/3.12b2530c.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.493140c1.chunk.css.map": "/static/css/main.493140c1.chunk.css.map",
-    "static/js/2.601dc16c.chunk.js.LICENSE.txt": "/static/js/2.601dc16c.chunk.js.LICENSE.txt",
-    "static/media/Theme.css": "/static/media/hint-example.433c1117.png",
-    "static/media/App.css": "/static/media/telegrama_render.8ce96f7a.woff"
+    "main.css": "/starbase-charmap/static/css/main.34a2432c.chunk.css",
+    "main.js": "/starbase-charmap/static/js/main.8552c65c.chunk.js",
+    "main.js.map": "/starbase-charmap/static/js/main.8552c65c.chunk.js.map",
+    "runtime-main.js": "/starbase-charmap/static/js/runtime-main.a1fe8a17.js",
+    "runtime-main.js.map": "/starbase-charmap/static/js/runtime-main.a1fe8a17.js.map",
+    "static/js/2.601dc16c.chunk.js": "/starbase-charmap/static/js/2.601dc16c.chunk.js",
+    "static/js/2.601dc16c.chunk.js.map": "/starbase-charmap/static/js/2.601dc16c.chunk.js.map",
+    "static/js/3.12b2530c.chunk.js": "/starbase-charmap/static/js/3.12b2530c.chunk.js",
+    "static/js/3.12b2530c.chunk.js.map": "/starbase-charmap/static/js/3.12b2530c.chunk.js.map",
+    "index.html": "/starbase-charmap/index.html",
+    "static/css/main.34a2432c.chunk.css.map": "/starbase-charmap/static/css/main.34a2432c.chunk.css.map",
+    "static/js/2.601dc16c.chunk.js.LICENSE.txt": "/starbase-charmap/static/js/2.601dc16c.chunk.js.LICENSE.txt",
+    "static/media/Theme.css": "/starbase-charmap/static/media/hint-example.433c1117.png",
+    "static/media/App.css": "/starbase-charmap/static/media/telegrama_render.8ce96f7a.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.803cee65.js",
+    "static/js/runtime-main.a1fe8a17.js",
     "static/js/2.601dc16c.chunk.js",
-    "static/css/main.493140c1.chunk.css",
+    "static/css/main.34a2432c.chunk.css",
     "static/js/main.8552c65c.chunk.js"
   ]
 }
