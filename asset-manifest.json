@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.493140c1.chunk.css",
+    "main.js": "/static/js/main.8552c65c.chunk.js",
+    "main.js.map": "/static/js/main.8552c65c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.803cee65.js",
+    "runtime-main.js.map": "/static/js/runtime-main.803cee65.js.map",
+    "static/js/2.601dc16c.chunk.js": "/static/js/2.601dc16c.chunk.js",
+    "static/js/2.601dc16c.chunk.js.map": "/static/js/2.601dc16c.chunk.js.map",
+    "static/js/3.12b2530c.chunk.js": "/static/js/3.12b2530c.chunk.js",
+    "static/js/3.12b2530c.chunk.js.map": "/static/js/3.12b2530c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.493140c1.chunk.css.map": "/static/css/main.493140c1.chunk.css.map",
+    "static/js/2.601dc16c.chunk.js.LICENSE.txt": "/static/js/2.601dc16c.chunk.js.LICENSE.txt",
+    "static/media/Theme.css": "/static/media/hint-example.433c1117.png",
+    "static/media/App.css": "/static/media/telegrama_render.8ce96f7a.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.803cee65.js",
+    "static/js/2.601dc16c.chunk.js",
+    "static/css/main.493140c1.chunk.css",
+    "static/js/main.8552c65c.chunk.js"
+  ]
+}
